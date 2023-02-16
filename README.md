@@ -1,1 +1,1 @@
-create a script to create an alias
+processes snd signals
